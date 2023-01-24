@@ -1,13 +1,29 @@
 body {
-    font: 1em sans-serif;
-    letter-spacing: 10px;
+    color:white;
+    background-size:100%;
+    background-repeat: no-repeat;
+    letter-spacing: 6px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .welcomeText {
     display:block;
-    left:25px;
-    top:25px;
-    transition:1s;
+    width:90%;
+    background-color:lightblue;
+    border-radius:20px;
+    border-color:transparent;
+    margin:25px;
+    padding:20px;
 }
-.backgroundImage {
-    text-align:center;
+.overflowText {
+    padding:20px;
+    display:block;
+    width:90%;
+    background-color:lightblue;
+    border-radius:20px;
+    border-color:transparent;
+    margin:25px;
+}
+div, p {
+    font-size:25px;
+    color:red;
 }
