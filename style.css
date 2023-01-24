@@ -1,0 +1,13 @@
+body {
+    font: 1em sans-serif;
+    letter-spacing: 10px;
+}
+.welcomeText {
+    display:block;
+    left:25px;
+    top:25px;
+    transition:1s;
+}
+.backgroundImage {
+    text-align:center;
+}
