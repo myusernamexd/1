@@ -1,7 +1,6 @@
 body {
     letter-spacing: 6px;
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-align:center;
-    background-color:rgb( 0, 0, 0);
+    background-color:black;
     color:rgb(0, 255, 0);
 }
